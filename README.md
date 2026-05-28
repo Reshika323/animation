@@ -327,8 +327,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 /*
 Program to display animation operation”.
-Developed by: ASHIKA TR
-Registeration Number :212224220011
+Developed by: M Reshika
+Registeration Number :212224220079
 */
 ```
 
